@@ -6,8 +6,8 @@ p {
   padding: 5px;
 }
 body {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 15%;
+  margin-right: 17%;
   background-color: bisque;
 }
 .sideBar {
@@ -17,7 +17,7 @@ body {
   float: left;
 }
 .profile {
-  width: 80.2%;
+  width: 83%;
   float: left;
   background-color: rgb(185, 230, 194);
 }
