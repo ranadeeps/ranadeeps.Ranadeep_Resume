@@ -3,7 +3,9 @@ h1 {
   text-align: center;
 }
 p {
-  padding: 5px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 2px 2px 5px 2px burlywood;
 }
 body {
   margin-left: 15%;
